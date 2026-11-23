@@ -29,3 +29,9 @@ if __name__ == "__main__":
             print("Password found:", result)
         else:
             print("Password not found within the search limit.")
+
+
+Sample Output:
+Enter a test password: cat
+
+Password found: cat
