@@ -14,3 +14,16 @@ def generate_password(filename="dictionary.txt", word_count=3):
 
 if __name__ == "__main__":
     print("Generated password:", generate_password())
+
+
+Sample dictionary.txt file:
+apple
+mango
+tiger
+river
+school
+flower
+computer
+orange
+
+Generated Password: mango-tiger-school
