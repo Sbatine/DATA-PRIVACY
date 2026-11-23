@@ -36,3 +36,24 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+OUTPUT
+DATA PRIVACY ETHICS CHECKER
+---------------------------
+
+Is user privacy respected? yes
+Is user consent obtained? yes
+Is personal data protected? no
+Is data collected only when necessary? yes
+Is data used fairly? no
+Is user information kept confidential? yes
+
+ETHICAL ASSESSMENT REPORT
+-------------------------
+Total Questions: 6
+Ethical Practices Followed: 4
+Issues Found: 2
+Result: Improvement Needed
+
+Protecting privacy is everyone's responsibility.
