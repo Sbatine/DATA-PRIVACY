@@ -25,3 +25,12 @@ if __name__ == "__main__":
 
     print("Encrypted message:", encrypted)
     print("Decrypted message:", decrypted)
+
+OUTPUT
+Enter message: HELLO
+Enter shift value: 3
+
+Encrypted message: KHOOR
+Decrypted message: HELLO
+
+
