@@ -58,3 +58,13 @@ if __name__ == "__main__":
                     print(f"{username}: No match found in the breach corpus.")
     except FileNotFoundError:
         print("Create a local passwords.txt file using passwords.example.txt as a template.")
+
+
+
+SAMPLE
+user1,password123
+user2,hello987
+
+Sample Output:
+user1 Password leaked!
+user2 Password not found.
