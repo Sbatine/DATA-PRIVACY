@@ -30,3 +30,32 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+OUTPUT
+DATA PRIVACY AUDIT
+------------------
+
+Is personal data encrypted? yes
+Encryption : PASS
+
+Is user consent collected? yes
+User Consent : PASS
+
+Are strong passwords used? no
+Password Security : RISK FOUND
+
+Is data access restricted? yes
+Access Control : PASS
+
+Are regular backups maintained? no
+Backup Security : RISK FOUND
+
+Is personal data deleted when no longer needed? yes
+Data Retention : PASS
+
+AUDIT REPORT
+Total Checks: 6
+Passed Checks: 4
+Risk Found: 2
+Privacy Score: 66.66666666666666 %
