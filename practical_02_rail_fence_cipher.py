@@ -66,9 +66,8 @@ if __name__ == "__main__":
     print("Decrypted text:", decrypted)
 
 OUTPUT
-Enter password: hello123
+Enter message: HELLOWORLD
+Enter number of rails: 3
 
-Original Password: hello123
-
-SHA-256 Hash:
-27d6b1b9b1c1a3...
+Encrypted text: HOLELWRDLO
+Decrypted text: HELLOWORLD
